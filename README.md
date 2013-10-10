@@ -34,6 +34,8 @@ module.exports = parent(
 
 ``` javascript
 // fibonacci.js
+var child = require('worker-query/child')
+
 module.exports = child(function(data, done) {
   var a = 0
   var b = 1
