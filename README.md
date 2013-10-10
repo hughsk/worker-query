@@ -3,7 +3,7 @@
 Reduces the boilerplate in setting up a request/response pattern between your
 main thread and a web worker. Intended for use with
 [browserify](http://browserify.org) and
-[webworkify](http;//github.com/substack/webworkify).
+[webworkify](http://github.com/substack/webworkify).
 
 [![worker-query](https://nodei.co/npm/worker-query.png?mini=true)](https://nodei.co/npm/worker-query)
 
